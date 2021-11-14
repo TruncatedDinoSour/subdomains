@@ -1,3 +1,5 @@
+doubleclick.net
+www.doubleclick.net
 ad.doubleclick.net
 stats.g.doubleclick.net
 static.doubleclick.net
